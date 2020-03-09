@@ -1,0 +1,1 @@
+d={"yes":"si","one":"uno","cat":"gato","dog":"perro","sun":"sol","rain":"lluvia","ball":"pelota","fork":"tenedor","chair":"silla"}
